@@ -1,7 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="127.0.0.1" resolutions="1x" timestamp="1480858225784">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="127.0.0.1" resolutions="1x" timestamp="1481314184754">
+  <folder name="assets">
+    <file name="url.htm" crc="3798650849" seo="true" mt="1481311071000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4230240864" ref="index"/>
+    <file name="index.css" crc="3887544257" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,66 +12,113 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="36584860" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u1325.php" crc="4242003415" ref="index"/>
+    <file name="form-u1556.php" crc="455593403" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u160-4.png" crc="4253293598" ref="index"/>
-    <file name="fb-art.png" crc="4182836009" seo="true" ref="index"/>
-    <file name="15271904_1183311181761239_5417883285947897405_o.jpg" crc="521698672" ref="index"/>
-    <file name="free-wallpaper-7.jpg" crc="500811268" ref="index"/>
-    <file name="u202-8.png" crc="246936467" ref="index"/>
-    <file name="u1299-4.png" crc="3998636676" ref="index"/>
-    <file name="14212769_1103238493101842_5199263849736477752_n-u447.png" crc="4114234804" ref="index"/>
-    <file name="u231-4.png" crc="145394752" ref="index"/>
-    <file name="13524344_1057254467700245_1130670048615376198_n.jpg" crc="433106223" ref="index"/>
-    <file name="13533091_1057254484366910_6807582312014352965_n.jpg" crc="3883424096" ref="index"/>
-    <file name="13612189_1057254427700249_4792132953893859734_n.jpg" crc="3777597653" ref="index"/>
-    <file name="13615200_1057254441033581_961579843429284733_n.jpg" crc="77646967" ref="index"/>
-    <file name="15107456_1175713022521055_2689739755873301749_n.jpg" crc="3852350123" seo="true" ref="index"/>
-    <file name="14702324_1133667370058954_6337336264774856243_n.jpg" crc="161884951" seo="true" ref="index"/>
-    <file name="beautiful-wallpaper-pc-pink-flowers.jpg" crc="3854699313" ref="index"/>
-    <file name="u993-4.png" crc="3836534437" ref="index"/>
-    <file name="13901389_1081968748562150_6908214797697897210_n.jpg" crc="4234878963" ref="index"/>
-    <file name="13900346_1081968681895490_4475950564495244333_n.jpg" crc="382283491" ref="index"/>
-    <file name="13900154_1081968778562147_7592863622849397361_n.jpg" crc="3990681309" ref="index"/>
-    <file name="13876602_1081968715228820_3528718231711065823_n.jpg" crc="4175823805" ref="index"/>
-    <file name="u1132-4.png" crc="33790286" ref="index"/>
-    <file name="u1135-4.png" crc="33790286" ref="index"/>
-    <file name="u1138-4.png" crc="33790286" ref="index"/>
-    <file name="u1141-4.png" crc="33790286" ref="index"/>
-    <file name="winter_wonderland_wallpaper_by_dyingbeautystock.jpg" crc="212847608" ref="index"/>
-    <file name="u581-4.png" crc="121930351" ref="index"/>
-    <file name="13921003_1087036741388684_1556709499272491328_n-u694-fr.jpg" crc="3886880918" ref="index"/>
-    <file name="13934770_1090090021083356_5814896361577542996_n.jpg" crc="4190331855" ref="index"/>
-    <file name="13935122_1087551124670579_7858128006700093220_n-u761-fr.jpg" crc="289969186" ref="index"/>
-    <file name="14046158_1092539354171756_9006567066048681904_n-u769-fr.jpg" crc="4057124619" ref="index"/>
-    <file name="14063950_1086219848137040_1581370733809792912_n-u783-fr.jpg" crc="135490894" ref="index"/>
-    <file name="14068110_1088474037911621_6378698639250797891_n-u791-fr.jpg" crc="3861940599" ref="index"/>
-    <file name="14079739_1094735707285454_8655414046394851331_n-u799-fr.jpg" crc="3907055760" ref="index"/>
-    <file name="14088456_1092311087527916_7835908409163742226_n.jpg" crc="435563194" ref="index"/>
-    <file name="14095772_1091739877585037_696785721518409150_n-u815-fr.jpg" crc="3796715763" ref="index"/>
-    <file name="14100255_1090747374350954_7725640295348179116_n-u823-fr.jpg" crc="519261071" ref="index"/>
-    <file name="14100548_1093154777443547_5299671891578967272_n-u831-fr.jpg" crc="370524014" ref="index"/>
-    <file name="14102166_1090897674335924_3522986263677083918_n-u839-fr.jpg" crc="4084362854" ref="index"/>
-    <file name="13921003_1087036741388684_1556709499272491328_n.jpg" crc="4234471025" ref="index"/>
-    <file name="13935122_1087551124670579_7858128006700093220_n.jpg" crc="340360675" ref="index"/>
-    <file name="14046158_1092539354171756_9006567066048681904_n.jpg" crc="4265487904" ref="index"/>
-    <file name="14063950_1086219848137040_1581370733809792912_n.jpg" crc="196829140" ref="index"/>
-    <file name="14068110_1088474037911621_6378698639250797891_n.jpg" crc="4033364158" ref="index"/>
-    <file name="14079739_1094735707285454_8655414046394851331_n.jpg" crc="16616495" ref="index"/>
-    <file name="14095772_1091739877585037_696785721518409150_n.jpg" crc="4225174227" ref="index"/>
-    <file name="14100255_1090747374350954_7725640295348179116_n-u827-fr.jpg" crc="4180909889" ref="index"/>
-    <file name="14100548_1093154777443547_5299671891578967272_n.jpg" crc="526519892" ref="index"/>
-    <file name="14102166_1090897674335924_3522986263677083918_n.jpg" crc="4120781958" ref="index"/>
-    <file name="u964-10.png" crc="35934107" ref="index"/>
-    <file name="1.jpg" crc="367038703" seo="true" ref="index"/>
-    <file name="14566196_1128773513881673_7092358644050297514_o.jpg" crc="3881238689" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="newlogo__.png" crc="525156008" seo="true" ref="index"/>
+    <file name="25591206_2812.jpg" crc="178216034" seo="true" ref="index"/>
+    <file name="15271904_1183311181761239_5417883285947897405_o.jpg" crc="80529920" seo="true" ref="index"/>
+    <file name="25591206_3511.jpg" crc="504524675" seo="true" ref="index"/>
+    <file name="25591206_6130.jpg" crc="451911978" seo="true" ref="index"/>
+    <file name="fb-art.png" crc="4102418069" seo="true" ref="index"/>
+    <file name="instagram-v051916_200.png" crc="178766327" seo="true" ref="index"/>
+    <file name="metroui-youtube-icon.png" crc="248800213" seo="true" ref="index"/>
+    <file name="line_logo.png" crc="4177438511" seo="true" ref="index"/>
+    <file name="u190-4.png" crc="500458748" ref="index"/>
+    <file name="u839.png" crc="267076613" ref="index"/>
+    <file name="u839-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u937.png" crc="3855016346" ref="index"/>
+    <file name="u1028.png" crc="267076613" ref="index"/>
+    <file name="u1028-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u1026.png" crc="3855016346" ref="index"/>
+    <file name="u989.png" crc="267076613" ref="index"/>
+    <file name="u989-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u987.png" crc="3855016346" ref="index"/>
+    <file name="u963.png" crc="267076613" ref="index"/>
+    <file name="u963-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u961.png" crc="3855016346" ref="index"/>
+    <file name="u1015.png" crc="267076613" ref="index"/>
+    <file name="u1015-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u1013.png" crc="3855016346" ref="index"/>
+    <file name="u1002.png" crc="267076613" ref="index"/>
+    <file name="u1002-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u1000.png" crc="3855016346" ref="index"/>
+    <file name="u976.png" crc="267076613" ref="index"/>
+    <file name="u976-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u974.png" crc="3855016346" ref="index"/>
+    <file name="u950.png" crc="267076613" ref="index"/>
+    <file name="u950-r.png" crc="3998742384" ref="index"/>
+    <file name="pcc-u948.png" crc="3855016346" ref="index"/>
+    <file name="1-03.jpg" crc="4169428008" seo="true" ref="index"/>
+    <file name="25591206_4692.jpg" crc="53972259" seo="true" ref="index"/>
+    <file name="3.jpg" crc="335021683" ref="index"/>
+    <file name="u248-8.png" crc="3837920338" ref="index"/>
+    <file name="u251-20.png" crc="3867356094" ref="index"/>
+    <file name="price.jpg" crc="196970309" seo="true" ref="index"/>
+    <file name="u254-16.png" crc="56043128" ref="index"/>
+    <file name="howto.jpg" crc="438447307" seo="true" ref="index"/>
+    <file name="u336.png" crc="60082509" ref="index"/>
+    <file name="u336-r.png" crc="60082509" ref="index"/>
+    <file name="1-04.jpg" crc="4154798403" seo="true" ref="index"/>
+    <file name="25591206_451.jpg" crc="4148736041" seo="true" ref="index"/>
+    <file name="4.jpg" crc="4215865577" ref="index"/>
+    <file name="u465-6.png" crc="264225603" ref="index"/>
+    <file name="u422-16.png" crc="26875473" ref="index"/>
+    <file name="u423-17.png" crc="4007642986" ref="index"/>
+    <file name="u530.png" crc="60082509" ref="index"/>
+    <file name="u530-r.png" crc="60082509" ref="index"/>
+    <file name="1-02.jpg" crc="4282318343" seo="true" ref="index"/>
+    <file name="25591206_3842.jpg" crc="4058995304" seo="true" ref="index"/>
+    <file name="2.jpg" crc="4220969943" ref="index"/>
+    <file name="u487-6.png" crc="440941288" ref="index"/>
+    <file name="u483-18.png" crc="485706142" ref="index"/>
+    <file name="u484-17.png" crc="4007642986" ref="index"/>
+    <file name="u536.png" crc="60082509" ref="index"/>
+    <file name="u536-r.png" crc="60082509" ref="index"/>
+    <file name="1-01.jpg" crc="341709183" seo="true" ref="index"/>
+    <file name="25591206_6877.jpg" crc="337331574" seo="true" ref="index"/>
+    <file name="1.jpg" crc="3992814568" ref="index"/>
+    <file name="u692-6.png" crc="4057901618" ref="index"/>
+    <file name="u689-16.png" crc="91726899" ref="index"/>
+    <file name="u733.png" crc="60082509" ref="index"/>
+    <file name="u733-r.png" crc="60082509" ref="index"/>
+    <file name="u874-17.png" crc="4007642986" ref="index"/>
+    <file name="u1040-4.png" crc="215429284" ref="index"/>
+    <file name="pay.jpg" crc="25826882" seo="true" ref="index"/>
+    <file name="u1193-4.png" crc="495960579" ref="index"/>
+    <file name="u1338.png" crc="4065109063" ref="index"/>
+    <file name="u1338-r.png" crc="3931110819" ref="index"/>
+    <file name="u1338-m.png" crc="87636088" ref="index"/>
+    <file name="u1338-fs.png" crc="4249110633" ref="index"/>
+    <file name="u1504-4.png" crc="4056537956" ref="index"/>
+    <file name="u1539-4.png" crc="501453745" ref="index"/>
+    <file name="u1562.png" crc="499855841" ref="index"/>
+    <file name="u1562-r.png" crc="3792962031" ref="index"/>
+    <file name="u1562-m.png" crc="4121231981" ref="index"/>
+    <file name="u1562-fs.png" crc="220735086" ref="index"/>
+    <file name="u1542-15.png" crc="32993084" ref="index"/>
+    <file name="line.jpg" crc="4224264413" seo="true" ref="index"/>
+    <file name="5.jpg" crc="287675831" ref="index"/>
+    <file name="6.jpg" crc="4055207812" ref="index"/>
+    <file name="7.jpg" crc="27553681" ref="index"/>
+    <file name="8.jpg" crc="4076622898" ref="index"/>
+    <file name="32.jpg" crc="3764616311" seo="true" ref="index"/>
+    <file name="42.jpg" crc="3945278929" seo="true" ref="index"/>
+    <file name="22.jpg" crc="4217967146" seo="true" ref="index"/>
+    <file name="12.jpg" crc="3778632752" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="412825256" seo="true" mt="1480858222324" redirect="true"/>
+  <file name="index.html" crc="4168166726" seo="true" mt="1481314181252" redirect="true"/>
 </manifest>

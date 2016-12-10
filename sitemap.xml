@@ -2,37 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://127.0.0.1/index.html</loc>
-    <lastmod>2016-12-04</lastmod>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://127.0.0.1/images/15107456_1175713022521055_2689739755873301749_n.jpg</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://127.0.0.1/images/newlogo__.png</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://127.0.0.1/images/14702324_1133667370058954_6337336264774856243_n.jpg</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://127.0.0.1/images/25591206_2812.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/15271904_1183311181761239_5417883285947897405_o.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_3511.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_6130.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://127.0.0.1/images/fb-art.png</loc>
-    <lastmod>2016-12-04</lastmod>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://127.0.0.1/images/14566196_1128773513881673_7092358644050297514_o.jpg</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://127.0.0.1/images/instagram-v051916_200.png</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://127.0.0.1/images/1.jpg</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://127.0.0.1/images/metroui-youtube-icon.png</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/line_logo.png</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/1-03.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_4692.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/price.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/assets/url.htm</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/1-04.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_451.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/1-02.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_3842.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/1-01.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/25591206_6877.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/pay.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/line.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/32.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/42.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/22.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/12.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://127.0.0.1/images/howto.jpg</loc>
+    <lastmod>2016-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
