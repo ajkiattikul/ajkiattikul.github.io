@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="outlook.com,127.0.0.1,hotmail.com.gmail.com" resolutions="1x" timestamp="1481394534745">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="127.0.0.1" resolutions="1x" timestamp="1480926985381">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="201202704" ref="index"/>
+    <file name="index.css" crc="525220909" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,74 +9,123 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="36584860" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
     <file name="form_check.php" crc="158155501" ref="index"/>
     <file name="form_throttle.php" crc="3992970984" ref="index"/>
     <file name="form_process.php" crc="4078697226" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="form-u3295.php" crc="4083786617" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="form-u2018.php" crc="3829964364" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="u779-17.png" crc="3881239178" ref="index"/>
+    <file name="spa-gesichtsmassage-massage-entspannung-19to1-u888-fr.jpg" crc="178080944" ref="index"/>
+    <file name="spa-massage-therapy-inset-u887-fr.jpg" crc="472645484" ref="index"/>
+    <file name="spa-facial-massage-u886-fr.jpg" crc="315950678" ref="index"/>
+    <file name="spa-gesichtsmassage-massage-entspannung-19to1-u880-fr.jpg" crc="282468751" ref="index"/>
+    <file name="spa-massage-therapy-inset.jpg" crc="199181841" ref="index"/>
+    <file name="spa-facial-massage.jpg" crc="124417484" ref="index"/>
+    <file name="386163.jpg" crc="4050227968" ref="index"/>
+    <file name="u355-10.png" crc="4180934478" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="newlogo__.png" crc="525156008" seo="true" ref="index"/>
-    <file name="25591206_2812.jpg" crc="178216034" seo="true" ref="index"/>
-    <file name="15271904_1183311181761239_5417883285947897405_o.jpg" crc="80529920" seo="true" ref="index"/>
-    <file name="25591206_3511.jpg" crc="504524675" seo="true" ref="index"/>
-    <file name="25591206_6130.jpg" crc="451911978" seo="true" ref="index"/>
-    <file name="line_logo.png" crc="4177438511" seo="true" ref="index"/>
-    <file name="u190-4.png" crc="500458748" ref="index"/>
-    <file name="1-03.jpg" crc="4169428008" seo="true" ref="index"/>
-    <file name="25591206_4692.jpg" crc="53972259" seo="true" ref="index"/>
-    <file name="3.jpg" crc="3764616311" ref="index" seo="true"/>
-    <file name="u248-8.png" crc="405516360" ref="index"/>
-    <file name="u251-20.png" crc="3867356094" ref="index"/>
-    <file name="price.jpg" crc="196970309" seo="true" ref="index"/>
-    <file name="howto.jpg" crc="438447307" seo="true" ref="index"/>
-    <file name="u336.png" crc="60082509" ref="index"/>
-    <file name="u336-r.png" crc="60082509" ref="index"/>
-    <file name="1-04.jpg" crc="4154798403" seo="true" ref="index"/>
-    <file name="25591206_451.jpg" crc="4148736041" seo="true" ref="index"/>
-    <file name="4.jpg" crc="3945278929" ref="index" seo="true"/>
-    <file name="u465-6.png" crc="4071041863" ref="index"/>
-    <file name="u422-16.png" crc="26875473" ref="index"/>
-    <file name="u530.png" crc="60082509" ref="index"/>
-    <file name="u530-r.png" crc="60082509" ref="index"/>
-    <file name="1-02.jpg" crc="4282318343" seo="true" ref="index"/>
-    <file name="25591206_3842.jpg" crc="4058995304" seo="true" ref="index"/>
-    <file name="2.jpg" crc="4217967146" ref="index" seo="true"/>
-    <file name="u487-6.png" crc="3873832770" ref="index"/>
-    <file name="u483-18.png" crc="485706142" ref="index"/>
-    <file name="u536.png" crc="60082509" ref="index"/>
-    <file name="u536-r.png" crc="60082509" ref="index"/>
-    <file name="1-01.jpg" crc="341709183" seo="true" ref="index"/>
-    <file name="25591206_6877.jpg" crc="337331574" seo="true" ref="index"/>
-    <file name="1.jpg" crc="3778632752" ref="index" seo="true"/>
-    <file name="u692-6.png" crc="86120559" ref="index"/>
-    <file name="u689-16.png" crc="91726899" ref="index"/>
-    <file name="u733.png" crc="60082509" ref="index"/>
-    <file name="u733-r.png" crc="60082509" ref="index"/>
-    <file name="line.jpg" crc="4224264413" seo="true" ref="index"/>
-    <file name="facebook-icon-logo-vector-400x400.png" crc="4207202101" seo="true" ref="index"/>
-    <file name="u254-18.png" crc="3928556518" ref="index"/>
-    <file name="howtosss.jpg" crc="4180889054" seo="true" ref="index"/>
-    <file name="u423-19.png" crc="3979069215" ref="index"/>
-    <file name="u484-19.png" crc="3979069215" ref="index"/>
-    <file name="u874-19.png" crc="3979069215" ref="index"/>
-    <file name="u2013-4.png" crc="4056537956" ref="index"/>
-    <file name="u2015-8.png" crc="336095627" ref="index"/>
-    <file name="u2038.png" crc="499855841" ref="index"/>
-    <file name="u2038-r.png" crc="3792962031" ref="index"/>
-    <file name="u2038-m.png" crc="4121231981" ref="index"/>
-    <file name="u2038-fs.png" crc="220735086" ref="index"/>
-    <file name="3fca1bb0.png" crc="326129621" seo="true" ref="index"/>
-    <file name="dt6odk8nc.png" crc="4223664773" seo="true" ref="index"/>
-    <file name="mail_iossvg.png" crc="4080580920" seo="true" ref="index"/>
-    <file name="u2097-14.png" crc="4213745266" ref="index"/>
+    <file name="u429.png" crc="452103019" ref="index"/>
+    <file name="u429-r.png" crc="452103019" ref="index"/>
+    <file name="di6od795t-u1910-fr.png" crc="4294285642" ref="index"/>
+    <file name="453436.jpg" crc="478016625" ref="index"/>
+    <file name="u2207-4.png" crc="479985719" ref="index"/>
+    <file name="bamboostones-u539-fr.png" crc="4118807700" ref="index"/>
+    <file name="u924-4.png" crc="4266509447" ref="index"/>
+    <file name="u930-4.png" crc="502744638" ref="index"/>
+    <file name="spa-u2135-fr.jpg" crc="4111129223" ref="index"/>
+    <file name="u2136-6.png" crc="4271707366" ref="index"/>
+    <file name="u2141-8.png" crc="359421708" ref="index"/>
+    <file name="slide03-u2137-fr.jpg" crc="421284400" ref="index"/>
+    <file name="spa4-u2138-fr.jpg" crc="302407364" ref="index"/>
+    <file name="u2142-9.png" crc="4005597148" ref="index"/>
+    <file name="u2456-6.png" crc="4271707366" ref="index"/>
+    <file name="u2459-8.png" crc="359421708" ref="index"/>
+    <file name="u2460-9.png" crc="4005597148" ref="index"/>
+    <file name="relaxing-at-the-spa-5616x3744-wallpaper.jpg" crc="213947529" ref="index"/>
+    <file name="u2071-29.png" crc="4217799168" ref="index"/>
+    <file name="cvpo5odwwaaathd-u2312-fr.jpg" crc="241534106" ref="index"/>
+    <file name="imageskmknmt1u.jpg" crc="228498620" ref="index"/>
+    <file name="spa-item-concept-details-21517608.jpg" crc="3784263998" ref="index"/>
+    <file name="home_spa_section_boxes_img-u3570-fr.png" crc="3830320075" ref="index"/>
+    <file name="spa-item-5058236.jpg" crc="4023317832" ref="index"/>
+    <file name="spa-high-quality-wallpaper.jpg" crc="363739007" ref="index"/>
+    <file name="u2087-4.png" crc="4169311386" ref="index"/>
+    <file name="spa-water-desktop-wallpaper.jpg" crc="3799950974" ref="index"/>
+    <file name="u3231-8.png" crc="4281641747" ref="index"/>
+    <file name="u3577.png" crc="3940919967" ref="index"/>
+    <file name="u3577-r.png" crc="202969796" ref="index"/>
+    <file name="shutterstock_52118155.jpg" crc="138882917" seo="true" ref="index"/>
+    <file name="shutterstock_52607107.jpg" crc="84577912" seo="true" ref="index"/>
+    <file name="shutterstock_55552078.jpg" crc="3805274476" seo="true" ref="index"/>
+    <file name="shutterstock_58560049.jpg" crc="4175601067" seo="true" ref="index"/>
+    <file name="shutterstock_70502623.jpg" crc="1492160" seo="true" ref="index"/>
+    <file name="shutterstock_56028082.jpg" crc="4028346333" seo="true" ref="index"/>
+    <file name="shutterstock_52118119.jpg" crc="130865669" seo="true" ref="index"/>
+    <file name="shutterstock_57730600.jpg" crc="460090883" seo="true" ref="index"/>
+    <file name="shutterstock_59006494.jpg" crc="359425345" seo="true" ref="index"/>
+    <file name="shutterstock_52118155338x225.jpg" crc="4008417019" seo="true" ref="index"/>
+    <file name="shutterstock_52607107338x225.jpg" crc="515067384" seo="true" ref="index"/>
+    <file name="shutterstock_55552078338x225.jpg" crc="301909059" seo="true" ref="index"/>
+    <file name="shutterstock_58560049338x225.jpg" crc="422095891" seo="true" ref="index"/>
+    <file name="shutterstock_70502623321x225.jpg" crc="4156518921" seo="true" ref="index"/>
+    <file name="shutterstock_56028082-crop-u2652.jpg" crc="528353163" ref="index"/>
+    <file name="shutterstock_52118119-crop-u2644.jpg" crc="3896634978" ref="index"/>
+    <file name="shutterstock_57730600356x225.jpg" crc="69116299" seo="true" ref="index"/>
+    <file name="shutterstock_59006494338x225.jpg" crc="395837424" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="shutterstock_134305733.jpg" crc="309356822" seo="true" ref="index"/>
+    <file name="shutterstock_140439649.jpg" crc="4130859895" seo="true" ref="index"/>
+    <file name="shutterstock_151371983.jpg" crc="4294225288" seo="true" ref="index"/>
+    <file name="shutterstock_55496983.jpg" crc="4101600516" seo="true" ref="index"/>
+    <file name="shutterstock_141727294.jpg" crc="334649145" seo="true" ref="index"/>
+    <file name="shutterstock_52118119-crop-u2571.jpg" crc="3896634978" ref="index"/>
+    <file name="shutterstock_134305733338x225.jpg" crc="70902189" seo="true" ref="index"/>
+    <file name="shutterstock_140439649338x225.jpg" crc="241271855" seo="true" ref="index"/>
+    <file name="shutterstock_151371983339x225.jpg" crc="95118554" seo="true" ref="index"/>
+    <file name="shutterstock_55496983338x225.jpg" crc="214906846" seo="true" ref="index"/>
+    <file name="shutterstock_141727294338x225.jpg" crc="4282888433" seo="true" ref="index"/>
+    <file name="shutterstock_132379895.jpg" crc="4147132157" seo="true" ref="index"/>
+    <file name="shutterstock_139211285.jpg" crc="3772417965" seo="true" ref="index"/>
+    <file name="shutterstock_155578658.jpg" crc="281381637" seo="true" ref="index"/>
+    <file name="shutterstock_156145766.jpg" crc="3853504151" seo="true" ref="index"/>
+    <file name="shutterstock_156440492.jpg" crc="3985703415" seo="true" ref="index"/>
+    <file name="shutterstock_157125392.jpg" crc="3851535813" seo="true" ref="index"/>
+    <file name="shutterstock_158593451.jpg" crc="3781349242" seo="true" ref="index"/>
+    <file name="shutterstock_154910600.jpg" crc="169146049" seo="true" ref="index"/>
+    <file name="shutterstock_132379895-crop-u2603.jpg" crc="487240757" ref="index"/>
+    <file name="shutterstock_139211285-crop-u2593.jpg" crc="4035608528" ref="index"/>
+    <file name="shutterstock_155578658338x225.jpg" crc="91660770" seo="true" ref="index"/>
+    <file name="shutterstock_156145766325x225.jpg" crc="233236360" seo="true" ref="index"/>
+    <file name="shutterstock_156440492350x225.jpg" crc="218110887" seo="true" ref="index"/>
+    <file name="shutterstock_157125392322x225.jpg" crc="142143783" seo="true" ref="index"/>
+    <file name="shutterstock_158593451366x225.jpg" crc="467319134" seo="true" ref="index"/>
+    <file name="shutterstock_154910600338x225.jpg" crc="4144439280" seo="true" ref="index"/>
+    <file name="u3307.png" crc="180849138" ref="index"/>
+    <file name="u3307-r.png" crc="3990508347" ref="index"/>
+    <file name="u3307-m.png" crc="57469383" ref="index"/>
+    <file name="u3307-fs.png" crc="4244957038" ref="index"/>
+    <file name="u3346-4.png" crc="376320180" ref="index"/>
+    <file name="23-spa.png" crc="55829951" ref="index"/>
+    <file name="u3472-4.png" crc="66333817" ref="index"/>
+    <file name="u3478-10.png" crc="123742717" ref="index"/>
+    <file name="u3475-4.png" crc="4155270260" ref="index"/>
+    <file name="flower1-u3545-fr.png" crc="327290894" ref="index"/>
+    <file name="u3481-4.png" crc="90844455" ref="index"/>
+    <file name="u3482-8.png" crc="70584030" ref="index"/>
+    <file name="facebook.png" crc="3937578975" ref="index"/>
+    <file name="twitter.png" crc="4078170562" ref="index"/>
+    <file name="skype.png" crc="3961734618" ref="index"/>
   </folder>
-  <file name="index.html" crc="128367298" seo="true" mt="1481394470982" redirect="true"/>
+  <file name="index.html" crc="115920418" seo="true" mt="1480926943138" redirect="true"/>
 </manifest>
