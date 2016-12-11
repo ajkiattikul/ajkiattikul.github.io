@@ -31,6 +31,15 @@ $form = array(
 		'to' => 'beautyshot.th@gmail.com'
 	),
 	'fields' => array(
+		'custom_U2028' => array(
+			'order' => 1,
+			'type' => 'string',
+			'label' => 'Name',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Name\' is required.'
+			)
+		),
 		'Email' => array(
 			'order' => 2,
 			'type' => 'email',
@@ -41,67 +50,21 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U1339' => array(
+		'custom_U2032' => array(
 			'order' => 4,
 			'type' => 'string',
-			'label' => 'Work Address',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Work Address\' is required.'
-			)
-		),
-		'custom_U1345' => array(
-			'order' => 5,
-			'type' => 'string',
-			'label' => 'City',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'City\' is required.'
-			)
-		),
-		'custom_U1361' => array(
-			'order' => 7,
-			'type' => 'string',
-			'label' => 'Zip code',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Zip code\' is required.'
-			)
-		),
-		'custom_U1349' => array(
-			'order' => 6,
-			'type' => 'string',
-			'label' => 'Country',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Country\' is required.'
-			)
-		),
-		'custom_U1357' => array(
-			'order' => 8,
-			'type' => 'string',
 			'label' => 'Message',
-			'required' => true,
+			'required' => false,
 			'errors' => array(
-				'required' => 'Field \'Message\' is required.'
 			)
 		),
-		'custom_U1448' => array(
-			'order' => 1,
-			'type' => 'string',
-			'label' => 'Name',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
-			)
-		),
-		'custom_U1465' => array(
+		'custom_U2023' => array(
 			'order' => 3,
 			'type' => 'string',
-			'label' => 'Cell Phone',
+			'label' => 'Custom',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Cell Phone\' is required.'
+				'required' => 'Field \'Custom\' is required.'
 			)
 		)
 	)
